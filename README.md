@@ -3,7 +3,7 @@ The function of this extension is straightforward – I love Marvel Cinematic Un
 
 How to use
 Clone and star the repository.
-git clone https://github.com/shubhank-saxena/endgame-spoiler-prevention.git
+git clone https://github.com/Prerna-11/WandaVision
 Then open chrome and type
 chrome://extensions/ 
 Enable the Developer Mode on the right top corner and click on Load unpacked on left hand corner.
