@@ -8,7 +8,7 @@
 
   "browser_action": {
     "default_icon": {
-      "0" : "images/shield0.png",
+      "11" : "images/shield11.png",
       "1" : "images/shield1.png",
       "2" : "images/shield2.png",
       "3" : "images/shield3.png"
