@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "WandaVision",
+  "description": "This extension indescriminately blocks all mentions of Endgame characters and plotlines in an attempt to not have my life ruined.",
+  "version": "0.1",
+  "author": "Shreya Gupta / Shubhank Saxena",
+
+  "browser_action": {
+    "default_icon": {
+      "0" : "images/shield0.png",
+      "1" : "images/shield1.png",
+      "2" : "images/shield2.png",
+      "3" : "images/shield3.png"
+    }
+  },
+  "permissions": [
+    "activeTab"
+   ],
+  "background": {
+    "scripts": ["js/startup.js"],
+    "persistent": false
+  }
+}
