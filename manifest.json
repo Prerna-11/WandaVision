@@ -2,9 +2,9 @@
   "manifest_version": 2,
 
   "name": "WandaVision",
-  "description": "This extension indescriminately blocks all mentions of Endgame characters and plotlines in an attempt to not have my life ruined.",
+  "description": "This extension indescriminately blocks all mentions of WandaVision characters and plotlines in an attempt to not have my life ruined.",
   "version": "0.1",
-  "author": "Shreya Gupta / Shubhank Saxena",
+  "author": "Prerna Priyamvada",
 
   "browser_action": {
     "default_icon": {
