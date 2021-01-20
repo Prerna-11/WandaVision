@@ -8,10 +8,10 @@
 
   "browser_action": {
     "default_icon": {
-      "11" : "images/shield11.png",
-      "1" : "images/shield1.png",
-      "2" : "images/shield2.png",
-      "3" : "images/shield3.png"
+      "19" : "images/icon19.png",
+      "23" : "images/icon23.png",
+      "48" : "images/icon48.png",
+      "128" : "images/icon128.png"
     }
   },
   "permissions": [
