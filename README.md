@@ -1,5 +1,5 @@
 # WandaVision
-The function of this extension is straightforward – I love Marvel Cinematic Universe, and I have been invested into it since my childhood and I don't want to ruin the twists and turns coming my way. This intractability combined with a love of surfing the internet has lead to a dangerous cocktail that this tool endeavors to support by blocking all elements on a webpage that could contain spoilers.
+The function of this extension is straightforward – I love MCU and I don't want to ruin the twists and turns coming my way. This intractability combined with a love of surfing the internet has lead to a dangerous cocktail that this tool endeavors to support by blocking all elements on a webpage that could contain spoilers.
 
 How to use
 Clone and star the repository.
