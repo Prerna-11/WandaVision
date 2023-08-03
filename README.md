@@ -29,3 +29,5 @@ chrome://extensions/
 5. Voila! Now just click on the extension whenever you are surfing the internet to prevent all those unpleasant spoilers!.
 
 
+Here's a Demo
+![Screenshot (47)](https://github.com/Prerna-11/WandaVision/assets/76648865/40538fb3-e072-46b8-bfe2-ac152222a5a0)
